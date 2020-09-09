@@ -24,3 +24,4 @@ jobs:
         cf_space: ${{ secrets.CF_SPACE_IBM }}
         command: >
           restart "$IBM_APP_NAME"
+
