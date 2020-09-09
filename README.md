@@ -1,3 +1,5 @@
+https://zelikk.blogspot.com/2020/08/ibm-cf-v2ray.html
+
 # 1. 注册IBM云账户
 
 打开 https://cloud.ibm.com/registration
