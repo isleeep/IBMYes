@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   # schedule:
     #为了避免扎堆重启，随机修改一下这里的定时运行时间。 格式：'分 时 日 月 星期'
-    # - cron: '47 4 * * WED'
+    # - cron: '47 5 * * WED'
 
 jobs:
   ibm-cloud-restart:
